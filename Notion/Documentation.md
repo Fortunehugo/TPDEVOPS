@@ -1,9 +1,9 @@
 # Documentation
 
-[Choix techniques et organisationnels](Documentation/Choix%20techniques%20et%20organisationnels.md)
+[Choix techniques et organisationnels](Documentation/Choix_techniques_et_organisationnels.md)
 
-[Versionnage github](Documentation/Versionnage%20github.md)
+[Versionnage github](Documentation/Versionnage_github.md)
 
-[Connecter AWS à Heroku](Documentation/Connecter%20AWS%20a%CC%80%20Heroku.md)
+[Connecter AWS à Heroku](Documentation/Connecter_AWS_a%CC%80_Heroku.md)
 
-[Heroku/Terraform set up](Documentation/Heroku%20Terraform%20set%20up.md)
+[Heroku/Terraform set up](Documentation/Heroku_Terraform_set_up.md)
