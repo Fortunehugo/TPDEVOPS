@@ -28,7 +28,7 @@ git push pour sauvegarder la branche
 
 Pour cloner le projet et l'avoir en local 
 
-![Versionnage_github/Untitled.png](Versionnage_github/Untitled.png)
+![image/Untitled.png](image/Untitled.png)
 
 dans un terminal et un dossier specifique au projet :
 
@@ -52,8 +52,8 @@ faite dans le terminal "cat id_rsa.pub"
 
 copier coller le code et mettez dans vôtres compte github 
 
-![Versionnage_github/Untitled_1.png](Versionnage_github/Untitled_1.png)
+![image/Untitled_1.png](image/Untitled_1.png)
 
-![Versionnage_github/Untitled_2.png](Versionnage_github/Untitled_2.png)
+![image/Untitled_2.png](image/Untitled_2.png)
 
-![Versionnage_github/Untitled_3.png](Versionnage_github/Untitled_3.png)
+![image/Untitled_3.png](image/Untitled_3.png)
